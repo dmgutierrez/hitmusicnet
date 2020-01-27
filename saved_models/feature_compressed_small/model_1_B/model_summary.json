@@ -1,0 +1,1 @@
+{"cpu (ms)": 112.22765851020813, "avg_val_loss": 0.012090766193358488, "avg_loss": 0.011362456831252844, "avg_mean_absolute_error": 0.08440342230687015, "avg_val_mean_absolute_error": 0.08756351199715783, "avg_cpu": 112.22765851020813, "avg_test_mean_absolute_error": 0.08752468725183342}
